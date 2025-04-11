@@ -1,3 +1,5 @@
+現在、クラウド上にはDMAのみ、ローカルの方でGDPR（Embedding前）まで
+
 # EU Regulation Database and Search Engine
 
 This web application provides a database and search engine for EU regulations (such as EHDS, DMA, etc.).
