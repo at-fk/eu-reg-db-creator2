@@ -53,4 +53,24 @@ coverage/
 # Subdirectory git repositories
 /eu-reg-db-app/.git/
 /eu-reg-uploader/.git/
-/embedding-creator/.git/ 
+/embedding-creator/.git/
+
+# Python virtual environments
+**/venv/
+**/.venv/
+**/myenv/
+**/__pycache__/
+
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+
+# Backup files
+*.bak
+*.backup
+*.sql
+
+# Local development files
+**/local_settings.py
+**/settings.local.js 
