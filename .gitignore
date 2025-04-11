@@ -1,4 +1,4 @@
-# Dependencies
+git commit -m "Initial commit"# Dependencies
 node_modules/
 npm-debug.log
 yarn-debug.log
@@ -48,4 +48,9 @@ coverage/
 # Misc
 *.pem
 .vercel
-.netlify 
+.netlify
+
+# Subdirectory git repositories
+/eu-reg-db-app/.git/
+/eu-reg-uploader/.git/
+/embedding-creator/.git/ 
