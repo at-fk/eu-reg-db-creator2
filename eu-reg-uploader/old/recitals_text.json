@@ -1,0 +1,24 @@
+{
+  "recitals": [
+    {
+      "recital_num": "1",
+      "text": "The aim of this Regulation is to establish the European Health Data Space (EHDS) in order to improve natural persons’ access to and control over their personal electronic health data in the context of healthcare, as well as to better achieve other purposes involving the use of electronic health data in the healthcare and care sectors that would benefit ▌society, such as research, innovation, policy-making, health threats preparedness and response, including preventing and addressing future pandemics, patient safety, personalised medicine, official statistics or regulatory activities. In addition, this Regulation’s goal is to improve the functioning of the internal market by laying down a uniform legal and technical framework in particular for the development, marketing and use of electronic health record systems (‘EHR systems’) in conformity with Union values. The EHDS will be a key element in the creation of a strong and resilient European Health Union."
+    },
+    {
+      "recital_num": "2",
+      "text": "The COVID-19 pandemic highlighted the imperative of having timely access to quality electronic health data for health threats preparedness and response, as well as for prevention, diagnosis and treatment and for secondary use of such electronic health data. Such timely access could potentially contribute, through efficient public health surveillance and monitoring, to ▌more effective management of future pandemics, to a reduction of costs and to improving the response to health threats, and ultimately could help to save more lives. In 2020, the Commission urgently adapted its Clinical Patient Management System, established by Commission Implementing Decision (EU) 2019/1269, to allow Member States to share electronic health data of COVID-19 patients moving between healthcare providers and Member States during the peak of that pandemic. However, that adaptation was only an emergency solution, showing the need for a structural and consistent approach at Member State and Union level, both in order to improve the availability of electronic health data for healthcare and to facilitate access to electronic health data in order to steer effective policy responses and contribute to high standards of human health."
+    },
+    {
+      "recital_num": "3",
+      "text": "The COVID-19 crisis strongly cemented the work of the eHealth Network, a voluntary network of authorities responsible for digital health, as the main pillar for the development of contact-tracing and contact-warning applications for mobile devices and the technical aspects of the EU Digital COVID Certificates. It also highlighted the need for sharing electronic health data that are findable, accessible, interoperable and reusable (the ‘FAIR principles’), and ensuring that electronic health data are as open as possible, while respecting the data minimisation principle as set out in Regulation (EU) 2016/679 of the European Parliament and of the Council. Synergies between the EHDS, the European Open Science Cloud and the European Research Infrastructures should be ensured, and lessons should be learned from data-sharing solutions developed under the European COVID-19 Data Platform."
+    },
+    {
+      "recital_num": "4",
+      "text": "Given the sensitivity of personal electronic health data, this Regulation seeks to provide sufficient safeguards at both Union and national level to ensure a high degree of data protection, security, confidentiality and ethical use. Such safeguards are necessary to promote trust in safe handling of electronic health data of natural persons for primary use and secondary use as defined in this Regulation."
+    },
+    {
+      "recital_num": "5",
+      "text": "The processing of personal electronic health data is subject to the provisions of Regulation (EU) 2016/679 and, for Union institutions, bodies, offices and agencies, of Regulation (EU) 2018/1725 of the European Parliament and of the Council. References to the provisions of Regulation (EU) 2016/679 should be understood also as references to the corresponding provisions of Regulation (EU) 2018/1725 for Union institutions, bodies, offices and agencies, where relevant."
+    }
+  ]
+}

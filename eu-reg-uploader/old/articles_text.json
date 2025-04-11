@@ -1,0 +1,326 @@
+{
+  "metadata": {
+    "extracted_at": "2024-12-31T13:37:15.007427",
+    "source_file": "articles_test.md",
+    "total_articles": 105
+  },
+  "articles": [
+    {
+      "article_num": "1",
+      "title": "Subject matter and scope",
+      "paragraphs": [
+        {
+          "paragraph_num": "1",
+          "chapeau": "This Regulation establishes the European Health Data Space (EHDS) by providing for common rules, standards and infrastructures and a governance framework, with a view to facilitating access to electronic health data for the purposes of primary use of electronic health data and secondary use of those data.",
+          "subparagraphs": []
+        },
+        {
+          "paragraph_num": "2",
+          "chapeau": "This Regulation",
+          "subparagraphs": [
+            {
+              "subparagraph_id": "a",
+              "text": "specifies and complements the rights laid down in Regulation (EU) 2016/679 of natural persons in relation to the primary use and secondary use of their personal electronic health data;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "b",
+              "text": "lays down common rules for electronic health record systems ( ‘EHR systems’) in relation to two mandatory harmonised software components, namely the European interoperability software component for EHR systems and the European logging software component for EHR systems, as defined in Article 2(2), points (n) and (o) respectively, and for wellness applications which are claimed to be interoperable with EHR systems in relation to those two harmonised software components, as regards primary use of electronic health data;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "c",
+              "text": "lays down common rules and mechanisms for primary use of electronic health data and secondary use of electronic health data;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "d",
+              "text": "establishes a cross-border infrastructure enabling the primary use of personal electronic health data across the Union;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "e",
+              "text": "establishes a cross-border infrastructure for secondary use of electronic health data;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "f",
+              "text": "establishes governance and coordination mechanisms at Union and national level for both primary use of electronic health data and secondary use of electronic health data.",
+              "type": "alphabetic"
+            }
+          ]
+        },
+        {
+          "paragraph_num": "3",
+          "chapeau": "This Regulation shall be without prejudice to other Union legal acts regarding access to, and sharing of or secondary use of, electronic health data, or Union requirements related to the processing of data in relation to electronic health data, in particular Regulations (EC) No 223/2009, (EU) No 536/2014, (EU) 2016/679, (EU) 2018/1725, (EU) 2022/868 and (EU) 2023/2854 of the European Parliament and of the Council and Directives 2002/58/EC and (EU) 2016/943 of the European Parliament and of the Council.",
+          "subparagraphs": []
+        },
+        {
+          "paragraph_num": "4",
+          "chapeau": "References in this Regulation to the provisions of Regulation (EU) 2016/679 shall be understood also as references to the corresponding provisions of Regulation (EU) 2018/1725, where relevant, as regards Union institutions, bodies, offices and agencies.",
+          "subparagraphs": []
+        },
+        {
+          "paragraph_num": "5",
+          "chapeau": "This Regulation shall be without prejudice to Regulations (EU) 2017/745, (EU) 2017/746 and (EU) 2024/1689, as regards the security of medical devices, in vitro diagnostic medical devices and artificial intelligence (AI) systems that interact with EHR systems.",
+          "subparagraphs": []
+        },
+        {
+          "paragraph_num": "6",
+          "chapeau": "This Regulation shall be without prejudice to Union or national law regarding electronic health data processing for the purposes of reporting, complying with access to information requests or demonstrating or verifying compliance with legal obligations, or to Union or national law regarding the granting of access to and disclosure of official documents.",
+          "subparagraphs": []
+        },
+        {
+          "paragraph_num": "7",
+          "chapeau": "This Regulation shall be without prejudice to specific provisions in Union or national law providing for access to electronic health data for further processing by Member States’ public sector bodies, by Union institutions, bodies, offices and agencies, or by private entities entrusted under Union or national law with a task of public interest, for the purpose of carrying out such task.",
+          "subparagraphs": []
+        },
+        {
+          "paragraph_num": "8",
+          "chapeau": "This Regulation shall not affect access to electronic health data for secondary use agreed in the framework of contractual or administrative arrangements between public or private entities.",
+          "subparagraphs": []
+        },
+        {
+          "paragraph_num": "9",
+          "chapeau": "This Regulation does not apply to the processing of personal data in the following cases",
+          "subparagraphs": [
+            {
+              "subparagraph_id": "a",
+              "text": "where the processing is carried out in the course of an activity which falls outside the scope of Union law;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "b",
+              "text": "where the processing is carried out by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security.",
+              "type": "alphabetic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "article_num": "2",
+      "title": "Definitions",
+      "paragraphs": [
+        {
+          "paragraph_num": "1",
+          "chapeau": "For the purposes of this Regulation, the following definitions apply",
+          "subparagraphs": [
+            {
+              "subparagraph_id": "a",
+              "text": "the definitions of ‘personal data’, ‘processing’, ‘pseudonymisation’, ‘controller’, ‘processor’, ‘third party’, ‘consent’, ‘genetic data’, ‘data concerning health’ and ‘international organisation’ laid down in Article 4, points (1), (2), (5), (7), (8), (10), (11), (13), (15) and (26), respectively, of Regulation (EU) 2016/679;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "b",
+              "text": "the definitions of ‘healthcare’, ‘Member State of affiliation’, ‘Member State of treatment’, ‘health professional’, ‘healthcare provider’, ‘medicinal product’ and ‘prescription’ laid down in Article 3, points (a), (c), (d), (f), (g), (i) and (k), respectively, of Directive 2011/24/EU;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "c",
+              "text": "the definitions of ‘data’, ‘access’, ‘data altruism’, ‘public sector body’ and ‘secure processing environment’ laid down in Article 2, points (1), (13), (16), (17) and (20), respectively, of Regulation (EU) 2022/868;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "d",
+              "text": "the definitions of ‘making available on the market’, ‘placing on the market’, ‘market surveillance’, ‘market surveillance authority’, ‘non-compliance’, ‘manufacturer’, ‘importer’, ‘distributor’, ‘economic operator’, ‘corrective action’, ‘recall’ and ‘withdrawal’ laid down in Article 3, points (1), (2), (3), (4), (7), (8), (9), (10), (13), (16), (22) and (23), respectively, of Regulation (EU) 2019/1020;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "e",
+              "text": "the definitions of ‘medical device’, ‘intended purpose’, ‘instructions for use’, ‘performance’, ‘health institution’ and ‘common specifications’ laid down in Article 2, points (1), (12), (14), (22), (36) and (71), respectively, of Regulation (EU) 2017/745;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "f",
+              "text": "the definitions of ‘electronic identification’ and ‘electronic identification means’ laid down in Article 3, points (1) and (2), respectively, of Regulation (EU) No 910/2014;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "g",
+              "text": "the definition of ‘contracting authorities’ laid down in Article 2(1), point (1), of Directive 2014/24/EU of the European Parliament and of the Council;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "h",
+              "text": "the definition of ‘public health’ laid down in Article 3, point (c), of Regulation (EC) No 1338/2008 of the European Parliament and of the Council.",
+              "type": "alphabetic"
+            }
+          ]
+        },
+        {
+          "paragraph_num": "2",
+          "chapeau": "In addition, for the purposes of this Regulation the following definitions apply",
+          "subparagraphs": [
+            {
+              "subparagraph_id": "a",
+              "text": "‘personal electronic health data’ means data concerning health and genetic data, processed in an electronic form;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "b",
+              "text": "‘non-personal electronic health data’ means electronic health data other than personal electronic health data, including both data that have been anonymised so that they no longer relate to an identified or identifiable natural person (the ‘data subject’) and data that have never related to a data subject;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "c",
+              "text": "‘electronic health data’ means personal or non-personal electronic health data;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "d",
+              "text": "‘primary use’ means the processing of electronic health data for the provision of healthcare, in order to assess, maintain or restore the state of health of the natural person to whom those data relate, including the prescription, dispensation and provision of medicinal products and medical devices, as well as for relevant social , administrative or reimbursement services;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "e",
+              "text": "‘secondary use’ means the processing of electronic health data for the purposes set out in Chapter IV of this Regulation, other than the initial purposes for which they were collected or produced;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "f",
+              "text": "‘interoperability’ means the ability of organisations, as well as of software applications or devices from the same manufacturer or different manufacturers, to interact through the processes they support , involving the exchange of information and knowledge, without changing the content of the data, between those organisations, software applications or devices;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "g",
+              "text": "‘registration of electronic health data’ means the recording of health data in an electronic format, through the manual entry of such data, through the collection of such data by a device, or through the conversion of non- electronic health data into an electronic format, to be processed in an EHR system or a wellness application;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "h",
+              "text": "‘electronic health data access service’ means an online service, such as a portal or an application for mobile devices, that enables natural persons not acting in a professional capacity to access their own electronic health data or the electronic health data of those natural persons whose electronic health data they are legally authorised to access; (i) ‘health professional access service’ means a service, supported by an EHR system, that enables health professionals to access data of natural persons under their treatment;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "i",
+              "text": "‘health professional access service’ means a service, supported by an EHR system, that enables health professionals to access data of natural persons under their treatment;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "j",
+              "text": "‘electronic health record’ or ‘EHR’ means a collection of electronic health data related to a natural person and collected in the health system, processed for the purpose of the provision of healthcare ;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "k",
+              "text": "‘electronic health record system’ or ‘EHR system’ means any system whereby the software, or a combination of the hardware and the software of that system, allows personal electronic health data that belong to the priority categories of personal electronic health data established under this Regulation to be stored, intermediated, exported, imported, converted, edited or viewed, and intended by the manufacturer to be used by healthcare providers when providing patient care or by patients when accessing their electronic health data;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "l",
+              "text": "‘putting into service’ means the first use, for its intended purpose, in the Union of an EHR system covered by this Regulation;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "m",
+              "text": "‘software component’ means a discrete part of software which provides a specific functionality or performs specific functions or procedures and which can operate independently or in conjunction with other components;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "n",
+              "text": "‘European interoperability software component for EHR systems’ means a software component of the EHR system which provides and receives personal electronic health data under a priority category for primary use established under this Regulation in the European electronic health record exchange format provided for in this Regulation and which is independent of the European logging software component for EHR systems;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "o",
+              "text": "‘European logging software component for EHR systems’ means a software component of the EHR system which provides logging information related to access by health professionals or other individuals to priority categories of personal electronic health data established under this Regulation, in the format defined in point 3.2. of Annex II thereto, and which is independent of the European interoperability software component for EHR systems;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "p",
+              "text": "‘CE marking of conformity’ means a marking by which the manufacturer indicates that the EHR system is in conformity with the applicable requirements set out in this Regulation and other applicable Union law providing for its affixing pursuant to Regulation (EC) No 765/2008 of the European Parliament and of the Council;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "q",
+              "text": "‘risk’ means the combination of the probability of an occurrence of a hazard causing harm to health, safety or information security and the degree of severity of such harm;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "r",
+              "text": "‘serious incident’ means any malfunction or deterioration in the characteristics or performance of an EHR system made available on the market that directly or indirectly leads, might have led or might lead to any of the following: (i) the death of a natural person or serious harm to a natural person’s health; (ii) serious prejudice to a natural person’s rights; (iii) serious disruption of the management and operation of critical infrastructure in the health sector;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "s",
+              "text": "‘care’ means a professional service the purpose of which is to address the specific needs of a natural person who, on account of impairment or other physical or mental conditions, requires assistance, including preventive and supportive measures, to carry out essential activities of daily living in order to support his or her personal autonomy;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "t",
+              "text": "‘health data holder’ means any natural or legal person, public authority, agency or other body in the healthcare or the care sectors, including reimbursement services where necessary, as well as any natural or legal person developing products or services intended for the health, healthcare or care sectors, developing or manufacturing wellness applications, performing research in relation to the healthcare or care sectors or acting as a mortality registry, as well as any Union institution, body, office or agency, that has either: (i) the right or obligation, in accordance with applicable Union or national law and in its capacity as a controller or joint controller, to process personal electronic health data for the provision of healthcare or care or for the purposes of public health, reimbursement, research, innovation, policy making, official statistics or patient safety or for regulatory purposes; or (ii) the ability to make available non-personal electronic health data through the control of the technical design of a product and related services, including by registering, providing, restricting access to or exchanging such data;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "u",
+              "text": "‘health data user’ means a natural or legal person, including Union institutions, bodies, offices or agencies, which has been granted lawful access to electronic health data for secondary use pursuant to a data permit, a health data request approval or an access approval by an authorised participant in HealthData@EU;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "v",
+              "text": "‘data permit’ means an administrative decision issued to a health data user by a health data access body to process certain electronic health data specified in the data permit for specific secondary use purposes, based on conditions laid down in Chapter IV of this Regulation;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "w",
+              "text": "‘dataset’ means a structured collection of electronic health data;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "x",
+              "text": "‘dataset of high impact for secondary use’ means a dataset the re-use of which is associated with significant benefits due to its relevance for health research;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "y",
+              "text": "‘dataset catalogue’ means a collection of dataset descriptions, arranged in a systematic manner and including a user-oriented public part, in which information concerning individual dataset parameters is accessible by electronic means through an online portal;",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "z",
+              "text": "‘data quality’ means the degree to which the elements of electronic health data are suitable for their intended primary use and secondary use; (aa) ‘data quality and utility label’ means a graphic diagram, including a scale, describing the data quality and conditions of use of a dataset; (ab) ‘wellness application’ means any software, or any combination of hardware and software, intended by the manufacturer to be used by a natural person, for the processing of electronic health data, specifically for providing information on the health of natural persons, or the delivery of care for purposes other than the provision of healthcare.",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "aa",
+              "text": "‘data quality and utility label’ means a graphic diagram, including a scale, describing the data quality and conditions of use of a dataset; (ab) ‘wellness application’ means any software, or any combination of hardware and software, intended by the manufacturer to be used by a natural person, for the processing of electronic health data, specifically for providing information on the health of natural persons, or the delivery of care for purposes other than the provision of healthcare.",
+              "type": "alphabetic"
+            },
+            {
+              "subparagraph_id": "ab",
+              "text": "‘wellness application’ means any software, or any combination of hardware and software, intended by the manufacturer to be used by a natural person, for the processing of electronic health data, specifically for providing information on the health of natural persons, or the delivery of care for purposes other than the provision of healthcare.",
+              "type": "alphabetic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "article_num": "3",
+      "title": "Right of natural persons to access their personal electronic health data",
+      "paragraphs": [
+        {
+          "paragraph_num": "1",
+          "chapeau": "Natural persons shall have the right to access at least personal electronic health data relating to them that belong to the priority categories referred to in Article 14 and are processed for the provision of healthcare through the electronic health data access services referred to in Article 4. Access shall be provided immediately after the personal electronic health data have been registered in an EHR system, while respecting the need for technological practicability, and shall be provided free of charge and in an easily readable, consolidated and accessible format.",
+          "subparagraphs": []
+        },
+        {
+          "paragraph_num": "2",
+          "chapeau": "Natural persons, or their representatives referred to in Article 4(2), shall have the right to download free of charge an electronic copy of at least the personal electronic health data in the priority categories referred to in Article 14 related to those natural persons, through the electronic health data access services referred to in Article 4, in the European electronic health record exchange format referred to in Article 15.",
+          "subparagraphs": []
+        },
+        {
+          "paragraph_num": "3",
+          "chapeau": "In accordance with Article 23 of Regulation (EU) 2016/679, Member States may restrict the scope of rights provided for in paragraphs 1 and 2 of this Article, in particular whenever those restrictions are necessary to protect natural persons, on the basis of patient safety and ethical considerations by delaying access to their personal electronic health data for a limited period of time until a health professional is able to properly communicate and explain to the natural persons concerned information that can have a significant impact on their health.",
+          "subparagraphs": []
+        }
+      ]
+    },
+    {
+      "article_num": "4",
+      "title": "Electronic health data access services for natural persons and their representatives",
+      "paragraphs": []
+    }
+  ]
+}
