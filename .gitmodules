@@ -1,0 +1,3 @@
+[submodule "eu-reg-db-app"]
+	path = eu-reg-db-app
+	url = https://github.com/at-fk/eu-reg-db-creator2.git
